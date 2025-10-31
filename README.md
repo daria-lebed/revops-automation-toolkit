@@ -21,13 +21,22 @@ This toolkit automates data hygiene and segmentation across CRM systems to help 
 
 ---
 
-## 🧩 Tech Stack
-| Category | Tools |
-|-----------|-------|
-| Programming | Python, Pandas, Regex |
-| Data | CSV Pipelines |
-| Automation | HubSpot API (coming soon) |
-| Version Control | Git & GitHub |
+## ⚙️ Tech Stack  
+- **Python 3.13**  
+- **OpenAI GPT-4o-mini** (AI report generation)  
+- **Pandas / OpenPyXL** (data analytics & processing)  
+- **HubSpot API** (CRM automation)
+
+---
+
+## 🧠 AI Summary Module  
+The `src/ai_summary.py` module automatically:  
+1. Generates CRM and revenue summaries via OpenAI  
+2. Saves results in `data/outputs/` and formatted `.md` reports  
+3. Integrates outputs into Notion dashboards  
+
+🧾 Example Output:  
+[📄 `docs/ai_summary.md`](./docs/ai_summary.md)  
 
 ---
 
@@ -49,43 +58,31 @@ revops-automation-toolkit/
 
 ---
 
-## 🔧 Installation
+## 🚀 Installation  
 ```bash
 git clone https://github.com/daria-lebed/revops-automation-toolkit.git
 cd revops-automation-toolkit
 python3 -m venv .venv
-source .venv/bin/activate      # macOS/Linux
-# .venv\Scripts\activate       # Windows
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
 ---
 
-## ▶️ Usage
+## 🧩 Usage  
 ```bash
-python src/email_cleaner.py
-python src/lifecycle_tagging.py
-python src/hygiene_report.py
+export OPENAI_API_KEY="your_api_key_here"
+python3 src/ai_summary.py
 ```
 
----
-
-## 📊 Outputs
-- 🧹 Cleaned leads → `data/outputs/cleaned_leads.csv`  
-- 🏷️ Tagged leads → `data/outputs/tagged_leads.csv`  
-- 📈 Hygiene report → `docs/hygiene_before_after.md`
-
-**Example Result:**  
-Before cleaning → 78 % valid emails  
-After cleaning → 96 % valid emails  
-📈 Improvement: +18 %
+Results will appear in:  
+- `data/outputs/ai_summary.txt`  
+- `docs/ai_summary.md`  
 
 ---
 
-## 🔮 Next Steps
-- 🔗 HubSpot API integration  
-- 🧠 AI-driven lead enrichment  
-- 🤖 Automated follow-up and lead scoring  
+## 🌐 Vision  
+Creating scalable, AI-driven RevOps systems that enhance revenue operations, automate analytics, and make data human-readable.  
 
 ---
 
