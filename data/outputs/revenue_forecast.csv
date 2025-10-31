@@ -1,0 +1,6 @@
+company,lifecycle_stage,intent,forecast_revenue_$
+OpenAI,SQL,Ready to Engage,5000
+Apollo,Engaged,Nurture,2000
+VC Lab,New Lead,New Lead,500
+CryptoStudio,Cold,Reactivation Needed,1000
+HubSpot,Customer,New Lead,500
