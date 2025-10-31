@@ -1,14 +1,14 @@
 # ⚙️ RevOps Automation Toolkit  
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?logo=openai&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-CRM-orange?logo=hubspot&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 <p align="center">
   <img src="https://github.com/daria-lebed/revops-automation-toolkit/blob/main/docs/banner.png" 
        alt="AI + RevOps Automation Toolkit Banner" width="100%">
 </p>
 
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?logo=openai&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-CRM-orange?logo=hubspot&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 Modern RevOps system that automates CRM cleaning, lifecycle tagging, and reporting for B2B SaaS sales teams.
 
