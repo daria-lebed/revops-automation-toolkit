@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 <p align="center">
-  <img src="https://github.com/<твой_username>/<репозиторий>/blob/main/banner.png?raw=true" 
+  <img src="https://github.com/https://github.com/daria-lebed/revops-automation-toolkit/blob/main/banner.png?raw=true" 
        alt="AI + RevOps Automation Toolkit Banner" width="100%">
 </p>
 
