@@ -4,6 +4,10 @@
 ![HubSpot](https://img.shields.io/badge/HubSpot-CRM-orange?logo=hubspot&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+<p align="center">
+  <img src="https://github.com/<твой_username>/<репозиторий>/blob/main/banner.png?raw=true" 
+       alt="AI + RevOps Automation Toolkit Banner" width="100%">
+</p>
 
 
 Modern RevOps system that automates CRM cleaning, lifecycle tagging, and reporting for B2B SaaS sales teams.
