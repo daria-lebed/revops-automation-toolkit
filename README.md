@@ -4,7 +4,7 @@
 ![HubSpot](https://img.shields.io/badge/HubSpot-CRM-orange?logo=hubspot&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-**CRM Hygiene • Lifecycle Tagging • AI-Ready Data Pipelines**
+
 
 Modern RevOps system that automates CRM cleaning, lifecycle tagging, and reporting for B2B SaaS sales teams.
 
@@ -88,6 +88,14 @@ Results will appear in:
 
 ## 🌐 Vision  
 Creating scalable, AI-driven RevOps systems that enhance revenue operations, automate analytics, and make data human-readable.  
+
+---
+
+## ⚡ Quick Demo  
+
+https://github.com/daria-lebed/revops-automation-toolkit/assets/demo.gif  
+
+*Demo: AI summarizes CRM data, cleans duplicates, and generates revenue insights automatically.*
 
 ---
 
